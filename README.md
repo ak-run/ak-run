@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Ruby, SQL**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agata-runowska-mcmillan-055b4042/](https://www.linkedin.com/in/agata-runowska-mcmillan-055b4042/)
+- 📄 Know about my experiences [see my LinkedIn Profile](https://www.linkedin.com/in/agata-runowska-mcmillan-055b4042/)
 
 - ⚡ Fun fact **When not coding or running after a toddler I play the guitar and sing**
 
