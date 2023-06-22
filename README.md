@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Recipe Box App](https://github.com/ak-run/diy-recipe-box)
 
-- 🌱 I’m currently learning **JavaScript, React, Ruby, SQL**
+- 🌱 I’m currently learning **JavaScript, React, Python, Ruby, SQL**
 
 - 📄 Know about my experiences [see my LinkedIn Profile](https://www.linkedin.com/in/agata-runowska-mcmillan-055b4042/)
 
