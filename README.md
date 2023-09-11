@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-run" alt="ak-run" /></a> </p>
 
-- I'm currently doing[CFGdegree](https://codefirstgirls.com/courses/cfgdegree/), software engineering pathway in Autumn 2023
+- I'm currently doing [CFGdegree](https://codefirstgirls.com/courses/cfgdegree/), software engineering pathway in Autumn 2023
 
 - 🔭 I’m currently working on [Recipe Box App](https://github.com/ak-run/diy-recipe-box)
 
