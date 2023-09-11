@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">A procurement support specialist and a mum learning to code. Doing [CFGdegree] (https://codefirstgirls.com/courses/cfgdegree/), software engineering pathway in Autumn 2023</h3>
+<h3 align="center">A procurement support specialist and a mum learning to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-run&label=Profile%20views&color=0e75b6&style=flat" alt="ak-run" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-run" alt="ak-run" /></a> </p>
+
+- I'm currently doing[CFGdegree](https://codefirstgirls.com/courses/cfgdegree/), software engineering pathway in Autumn 2023
 
 - 🔭 I’m currently working on [Recipe Box App](https://github.com/ak-run/diy-recipe-box)
 
