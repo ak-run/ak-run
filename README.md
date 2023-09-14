@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">A procurement support specialist and a mum learning to code.</h3>
+<h3 align="center">A procurement support specialist transitioning to a career in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-run&label=Profile%20views&color=0e75b6&style=flat" alt="ak-run" /> </p>
 
