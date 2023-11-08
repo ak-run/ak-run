@@ -25,3 +25,4 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-run&show_icons=true&locale=en" alt="ak-run" /></p>
+<a href="https://www.freepik.com/free-vector/code-typing-concept-illustration_10259340.htm#query=Programming&position=11&from_view=search&track=sph">Profile Image by storyset</a> on Freepik
