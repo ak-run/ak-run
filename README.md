@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently on the [CFGdegree](https://codefirstgirls.com/courses/cfgdegree/) - Autum 2023 cohort with a specialisation in Software Engineering.
 
-- 🔭 I’m currently working on [Recipe Box App](https://github.com/ak-run/diy-recipe-box)
+- 🔭 I’m currently working on DIY Recipe Box App for meal and shopping planning, using flask and flask forms, and mysql.connector
 
 - 🌱 I’m currently learning **Python, JavaScript, React, SQL, Ruby**
 
