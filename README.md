@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [see my LinkedIn Profile](https://www.linkedin.com/in/agata-runowska-mcmillan/)
 
-- ⚡ Fun fact: **When not coding I play the guitar and sing**
+- ⚡ Fun fact: **when not coding I sing, play the guitar or hike**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
