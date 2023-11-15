@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/agata-r-055b4042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agata-runowska-mcmillan-055b4042" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agata-runowska-mcmillan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agata-runowska-mcmillan-055b4042" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
