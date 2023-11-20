@@ -1,5 +1,43 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">A procurement support specialist transitioning to a career in software development.</h3>
+<h3 align="center">Software Developer | Python | MySQL | JavaScript 🚀 Passion for New and Emerging Technologies</h3>
+Dynamic and ambitious Software Developer specialising in Python, MySQL, and JavaScript who blends technical expertise with innovative problem-solving skills and a passion for cutting-edge technologies. Shared extensive knowledge of modern software engineering practices while designing, coding, testing, and maintaining efficient and scalable software solutions.  Showcased impressive leadership qualities to empower staff during a Software Engineering bootcamp project to develop a REST API app using Flask and MySQL. 
+
+#### 🔄 Key Strengths:
+**Modern Software Development:** Embraces principles like clean code, agile methodologies, and continuous integration.
+
+**Project Management:** Managed and developed a Flask-based web application for an online movie rental company, showcasing Python proficiency.
+
+**Troubleshooting Expert:** Excellently resolves technical issues, ensuring system stability and software efficiency.
+
+**Data & API Development:** Experienced in complex software component design, including API development and database integration.
+
+**Adaptability:** Skilled in navigating changes, notably during internal departmental restructures, and training high-performing teams.
+
+
+#### 💡 Core Training Highlights
+**Software Engineering:** Cemented skills in software engineering, including programming, software development lifecycle (SDLC), web development, and data management.
+
+**Programming Languages and Frameworks:** Studied the use of Python for software development, as well as SQL, JavaScript, and React.
+
+**Object-Oriented and Functional Programming:** Developed expertise in object-oriented programming concepts and functional programming techniques.
+
+**Algorithm Design and Problem-Solving:** Enhanced problem-solving abilities through studies in recursion programming, linked lists, debugging, and algorithm design.
+
+**Quality Assurance through Unit Testing:** Cemented appreciation surrounding importance of unit testing in software development to ensure code reliability and application stability.
+
+#### Core Competencies:
+💻 Programming / Coding
+
+🧐 Analytical Thinking
+
+📈 Project Management
+
+🧠 Technical Training & Troubleshooting
+
+🤝 Interpersonal Communication and Team Collaboration
+
+Now looking to harness these, and other achievements in a challenging and rewarding environment.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-run&label=Profile%20views&color=0e75b6&style=flat" alt="ak-run" /> </p>
 
