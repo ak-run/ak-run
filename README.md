@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">Software Developer | Python | MySQL | JavaScript 🚀 Passion for New and Emerging Technologies</h3>
-Dynamic and ambitious Software Developer specialising in Python, MySQL, and JavaScript who blends technical expertise with innovative problem-solving skills and a passion for cutting-edge technologies. Shared extensive knowledge of modern software engineering practices while designing, coding, testing, and maintaining efficient and scalable software solutions.  Showcased impressive leadership qualities to empower staff during a Software Engineering bootcamp project to develop a REST API app using Flask and MySQL. 
+Dynamic and ambitious Software Developer specialising in Python, Ruby, MySQL, and JavaScript who blends technical expertise with innovative problem-solving skills and a passion for cutting-edge technologies. Shared extensive knowledge of modern software engineering practices while designing, coding, testing, and maintaining efficient and scalable software solutions.  Showcased impressive leadership qualities to empower staff during a Software Engineering bootcamp project to develop a REST API app using Flask and MySQL. 
 
 #### 🔄 Key Strengths:
 **Modern Software Development:** Embraces principles like clean code, agile methodologies, and continuous integration.
 
-**Project Management:** Managed and developed a Flask-based web application for an online movie rental company, showcasing Python proficiency.
+**Project Management:** Managed and developed a Flask-based web application, showcasing Python proficiency.
 
 **Troubleshooting Expert:** Excellently resolves technical issues, ensuring system stability and software efficiency.
 
@@ -21,7 +21,7 @@ Dynamic and ambitious Software Developer specialising in Python, MySQL, and Java
 
 **Object-Oriented and Functional Programming:** Developed expertise in object-oriented programming concepts and functional programming techniques.
 
-**Algorithm Design and Problem-Solving:** Enhanced problem-solving abilities through studies in recursion programming, linked lists, debugging, and algorithm design.
+**Algorithm Design and Problem-Solving:** Enhanced problem-solving abilities through studies in recursion programming, graphs, debugging, and algorithm design.
 
 **Quality Assurance through Unit Testing:** Cemented appreciation surrounding importance of unit testing in software development to ensure code reliability and application stability.
 
