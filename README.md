@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">Software Developer | Python | MySQL | JavaScript 🚀 Passion for New and Emerging Technologies</h3>
+<h3 align="center">Software Developer | Python | Ruby | MySQL | JavaScript 🚀 Passion for New and Emerging Technologies</h3>
 Dynamic and ambitious Software Developer specialising in Python, Ruby, MySQL, and JavaScript who blends technical expertise with innovative problem-solving skills and a passion for cutting-edge technologies. Shared extensive knowledge of modern software engineering practices while designing, coding, testing, and maintaining efficient and scalable software solutions.  Showcased impressive leadership qualities to empower staff during a Software Engineering bootcamp project to develop a REST API app using Flask and MySQL. 
 
 #### 🔄 Key Strengths:
