@@ -43,12 +43,6 @@ Now looking to harness these, and other achievements in a challenging and reward
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-run" alt="ak-run" /></a> </p>
 
-- 🔭 I recently graduated with distinction from 16 week [CFGdegree](https://codefirstgirls.com/courses/cfgdegree/) - Autum 2023 cohort with a specialisation in Software Engineering.
-
-- 🔭 I’m currently working on Meal Planning App for meal and shopping planning, using flask and flask forms, and mysql.connector
-
-- 🌱 I’m currently learning **Python, JavaScript, React, SQL, Ruby**
-
 - 📄 Know about my experiences [see my LinkedIn Profile](https://www.linkedin.com/in/agata-runowska-mcmillan/)
 
 - ⚡ Fun fact: **when not coding I sing, play the guitar or hike**
